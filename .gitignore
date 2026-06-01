@@ -112,6 +112,9 @@ public/
 *.sln
 *.swp
 
+# VS Code Code Runner temp files
+tempCodeRunnerFile.*
+
 # OS metadata
 .DS_Store
 Thumbs.db
